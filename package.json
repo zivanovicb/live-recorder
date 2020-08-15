@@ -1,0 +1,26 @@
+{
+  "name": "live-recorder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/ffmpeg": "^1.0.1",
+    "@types/mongoose": "^5.7.32",
+    "@types/node": "^14.0.23",
+    "@types/puppeteer": "^3.0.1",
+    "@types/winston": "^2.4.4",
+    "dotenv": "^8.2.0",
+    "faker": "^4.1.0",
+    "ffmpeg": "^0.0.4",
+    "mkdirp": "^1.0.4",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.25",
+    "puppeteer": "^5.2.0",
+    "streamlink": "^1.0.4",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
